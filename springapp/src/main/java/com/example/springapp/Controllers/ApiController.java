@@ -1,4 +1,4 @@
-@RestController
+@Rest
 public class ApiController {
     public class Welcome()
     {
